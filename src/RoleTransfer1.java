@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
 
-public class RoleTransfer {
+public class RoleTransfer1 {
     /***
      * Input: AnM × N matrix S that is the role repository matrix.
      * Output: TRUE if S has partitions; and FALSE if it has no partition.
